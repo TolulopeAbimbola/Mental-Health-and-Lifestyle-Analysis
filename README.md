@@ -73,7 +73,7 @@ Reviewed the visualizations to identify dominant categories and differences betw
 
 
 # Dashboard Visualizations and Key Findings
-<img width="1606" height="915" alt="Image" src="https://github.com/user-attachments/assets/fc97f0de-0f90-49a4-8de5-339e0a185d41" />
+<img width="1606" height="915" alt="Image" src="https://github.com/user-attachments/assets/e5675c5e-c165-4d3a-acb7-ad8944bc9d18" />
 
 Gender Distribution
 
